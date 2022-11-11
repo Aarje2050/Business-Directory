@@ -2,21 +2,21 @@
 var businessDetails = 
 [
     { 
-        "name"  : "Immortal SEO", 
-        "email" : "immortal@seo.com", 
-        "phone" : 9649930799 
+        "name"  : "Something Corp", 
+        "email" : "something@Corp.com", 
+        "phone" : 9383939383 
     },
 
     { 
-        "name"  : "Keen Infotech", 
+        "name"  : "Rajesh jat Info", 
         "email" : "immortal@seo.com", 
-        "phone" : 9649930799 
+        "phone" : 3939849493 
     },
 
     { 
-        "name"  : "Kailash Jat", 
+        "name"  : "Kailash Jat Tech", 
         "email" : "kailashjat@gmail.com", 
-        "phone" : 98389839928 
+        "phone" : 394839392 
     },
 
 
